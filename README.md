@@ -31,7 +31,6 @@ tic-tac-toe-react/
 Follow these steps to run the project locally:
 
 1️⃣ Clone the repository
-```bash
 git clone https://github.com/paresh0805/Tic-Tac-Toe.git
 cd tic-tac-toe
 
